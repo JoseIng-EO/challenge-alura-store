@@ -8,4 +8,8 @@
   <p>4. Productos más y menos vendidos.<\p>
 
 <h2> Analisis de los datos obtenidos en 5 items</h2>
-<p>* </p>
+<p>Item 1: Ingresos Totales</p>
+<p>Item 2: Ventas por Categoría</p>
+<p>Item 3: Calificación promedio de las tiendas</p>
+<p>Item 4: Productos más y menos vendidos</p>
+<p>Item 5: Envío promedio por tiendas</p>
