@@ -13,3 +13,6 @@
 <p>Item 3: Calificación promedio de las tiendas</p>
 <p>Item 4: Productos más y menos vendidos</p>
 <p>Item 5: Envío promedio por tiendas</p>
+
+<h3>Desarrollado por: José Antonio González Rojas</h3>
+<h3>Curso: Modelado de datos con Python G8 - ONE</h3>
