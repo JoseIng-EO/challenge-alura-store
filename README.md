@@ -2,3 +2,4 @@
 
 1. Análsis de facturación
 2. Ventas por categoría
+3. Calificación promedio de las tiendas
